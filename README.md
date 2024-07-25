@@ -87,9 +87,9 @@ The Weather Monitoring System is a web application that fetches real-time weathe
  - Wind Speed: > 7 m/s
 
 ## Backend: 
- - The server fetches weather data from the OpenWeatherMap API every 10 minutes and updates the MongoDB database with the latest data.
+ - The server fetches weather data from the OpenWeatherMap API every 5 minutes and updates the MongoDB database with the latest data.
 ## Frontend: 
- - The React application fetches weather data from the backend API and displays it in a user-friendly interface.
+ - The React application fetches weather data every 20 seconds from the backend API and displays it in a user-friendly interface with live chart updations.
 ## Alerts: 
  - The frontend checks for conditions exceeding the thresholds and displays alerts for affected cities.
 

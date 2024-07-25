@@ -27,7 +27,7 @@ const WeatherSummary = () => {
     fetchWeatherData();
 
     // Fetch weather data every minute
-    const intervalId = setInterval(fetchWeatherData, 10000);
+    const intervalId = setInterval(fetchWeatherData, 20000);
 
     // Clean up interval on component unmount
     return () => clearInterval(intervalId);
