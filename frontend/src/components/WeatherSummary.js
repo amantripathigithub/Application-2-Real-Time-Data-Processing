@@ -8,8 +8,8 @@ const WeatherSummary = () => {
   const [weatherData, setWeatherData] = useState([]);
 
   const thresholds = {
-    temperature: 24, // example threshold
-    humidity: 80, // example threshold
+    temperature: 35, // example threshold
+    humidity: 60, // example threshold
     windSpeed: 7, // example threshold
   };
 
