@@ -96,7 +96,7 @@ The Weather Monitoring System is a web application that fetches real-time weathe
 
 ## screenshots
 
-![Screenshot (2382)](https://github.com/user-attachments/assets/79831dc7-d257-437c-a661-53fdd1e96833)
-![Screenshot (2381)](https://github.com/user-attachments/assets/f0020594-1a90-45f6-ba37-c52971a10468)
-![Screenshot (2380)](https://github.com/user-attachments/assets/5aef23d6-c453-4287-a839-aeede5028d4b)
+![Screenshot (2382)](https://github.com/user-attachments/assets/9e21d2a4-b960-42e4-b886-657dd27a865e)
+![Screenshot (2381)](https://github.com/user-attachments/assets/cd6159a0-c3c2-46ec-98c7-297dcb91456a)
+![Screenshot (2380)](https://github.com/user-attachments/assets/7d69e2fa-10dd-4415-b0ea-b79df33e54ed)
 
